@@ -1,6 +1,8 @@
 # Midi-Sf2-Mp3-Converter
 This is a simple Bash script that converts MIDI files to MP3 using the FluidSynth and LAME command-line utilities. The script can convert a single MIDI file or all MIDI files in a directory, and can use a specified soundfont file for improved sound quality.
 
+![Screenshot 2023-04-30 13 03 23](https://user-images.githubusercontent.com/38471159/235351930-7fe62396-141c-4f9d-aedc-add42e1e51d3.png)
+
 ## Installation
 Download `midi2mp3sf.sh`
 
