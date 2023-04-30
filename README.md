@@ -32,8 +32,5 @@ If no soundfont file is specified, the script will use the default FluidSynth so
 The script will create an MP3 file for each input MIDI file, with the same name as the input file but with the soundfont label and .mp3 extension. 
 The output file will be placed in the same directory as the input file.
 
-## License
-This script is licensed under the GPL License. See the LICENSE file for details.
-
 ## Acknowledgments
 The FluidSynth and LAME utilities are developed by the open source community and are distributed under the LGPL and GPL licenses, respectively.
